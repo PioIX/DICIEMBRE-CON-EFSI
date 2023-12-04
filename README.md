@@ -1,6 +1,27 @@
 # DICIEMBRE-CON-EFSI/Marcos Silveira
-FrontEnd
+
+# FrontEnd
   
-  CSS: Este es el lenguaje por el cual podemos modificar la presentacion de nuestra pagina web,  podemos cambiar tanto el color, tamaño, forma, fuentes, 
+  * CSS: Este es el lenguaje por el cual podemos modificar la presentacion de la pagina web, tenemos la capacidad de interactuar con el tamaño, color, fuente, forma y cualquier contenido dentro de la pagian web. 
     
-  HTML:
+  * HTML:
+
+  * JavaScrpit
+
+
+# BackEnd
+
+  * Web Server (EndPoint):
+
+  * Handlebar:
+
+  * WebSocket:
+
+
+# Interacciones
+
+  * HTTP:
+
+  * WebSocket:
+
+  * SQL:
